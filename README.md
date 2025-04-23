@@ -1,4 +1,11 @@
-# Blog Generator
+<div align="center">
+  <h1>🚧 Blog Generator 🚧</h1>
+  <p><em>Under Construction - Coming Soon!</em></p>
+  <img src="https://img.shields.io/badge/status-under%20construction-yellow" alt="Status: Under Construction">
+  <img src="https://img.shields.io/badge/version-0.1.0-blue" alt="Version: 0.1.0">
+</div>
+
+---
 
 A modern web application that helps you generate personalized blog content using AI. Upload your resume and blog content, and let the AI create engaging content tailored to your style and expertise.
 
